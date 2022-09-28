@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Volkan</h1>
 <h3 align="center">Software Developer, Trader, Father of Leo 😾</h3>
 
-- 🌱 I’m currently learning **React.js,Go**
+- 🌱 I’m currently learning **Clojure**
 
 - 💬 Ask me about **Django,Python,Flutter**
 
