@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **volkanaktas98@gmail.com**
 
-- 📄 Know about my experiences **linkedin.com/in/volkannaktass/**
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/volkannaktass/">**linkedin.com/in/volkannaktass/**</a>
 <!--- [linkedin.com/in/volkannaktass/](linkedin.com/in/volkannaktass/) --->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
