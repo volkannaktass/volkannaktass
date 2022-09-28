@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **volkanaktas98@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/volkannaktass/](linkedin.com/in/volkannaktass/)
-
+- 📄 Know about my experiences **linkedin.com/in/volkannaktass/**
+<!--- [linkedin.com/in/volkannaktass/](linkedin.com/in/volkannaktass/) --->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vlknnaktss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vlknnaktss" height="30" width="40" /></a>
