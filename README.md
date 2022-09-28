@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Django,Python,Flutter**
 
-- 📫 How to reach me **volkanaktas98@gmail.me**
+- 📫 How to reach me **volkanaktas98@gmail.com**
 
 - 📄 Know about my experiences [volkanaktas.me](volkanaktas.me)
 
