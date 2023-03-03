@@ -5,7 +5,9 @@
 
 - 💬 Ask me about **Django,Python,Flutter**
 
-- 📫 How to reach me **volkanaktas98@gmail.com**
+- 📫 How to reach me **volkan@aktas.io**
+
+- 📄 <a href="https://aktas.io">**aktas.io**</a>
 
 - 📄 Know about my experiences <a href="https://www.linkedin.com/in/volkannaktass/">**linkedin.com/in/volkannaktass/**</a>
 <!--- [linkedin.com/in/volkannaktass/](linkedin.com/in/volkannaktass/) --->
